@@ -21,5 +21,3 @@ django project which convert text to the html tags.
 
 9. output : 
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/66414385/170849478-656fcc85-fbd5-4d08-8f8b-1544c5384adb.png">
-
