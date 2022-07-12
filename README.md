@@ -21,3 +21,4 @@ django project which convert text to the html tags.
 
 9. output : 
 
+![Screenshot (129)](https://user-images.githubusercontent.com/98692616/178442728-0253616b-ce9e-4755-b081-865577f4fa38.png)
