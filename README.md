@@ -3,7 +3,7 @@ django project which convert text to the html tags.
 
 ### To run this project 
 
-1. clone this project by using ```git clone https://github.com/shubhamAW/text_to_html.git ```
+1. clone this project by using ```git clone https://github.com/ashu1281/text_to_html.git ```
 
 2. go to project folder ```cd text_to_html```
 
